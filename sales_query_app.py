@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Step 1: Configure Google Gemini API Key
-genai.configure(api_key="AIzaSyCkPT1dszp6QjiCJ72_wchI12jBPhJYrrY")
+genai.configure(api_key="AIzaSyAEVvgyIT37EpmiO3_wf9Gned5eXkPF68Y")
 
 
 # Step 2: Define the database schema and sample data creation function
